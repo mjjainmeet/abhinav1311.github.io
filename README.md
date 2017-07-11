@@ -2,21 +2,12 @@
 
 <html ng-app>
   <head>
-    <title>My AngularJS App</title>
+    <title>HAHA AngularJS App</title>
     <script src="angular.min.js"></script>
   </head>
   <body>
   <div ng-app >
-  <b>Invoice:</b>
-  <div>
-    Quantity: <input type="number" min="0" ng-model="qty">
+  Hi, this is portfolio for Angular JS learning .Please contribute it learning it faster.
   </div>
-  <div>
-    Costs: <input type="number" min="0" ng-model="cost">
-  </div>
-  <div>
-    <b>Total:</b> {{qty * cost | number:4}}
-  </div>
-</div>
   </body>
 </html>
