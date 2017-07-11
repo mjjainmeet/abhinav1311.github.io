@@ -1,9 +1,5 @@
 # abhinav1311.github.io
 
-
-Welcome to github
-
-<!doctype html>
 <html ng-app>
   <head>
     <title>My AngularJS App</title>
