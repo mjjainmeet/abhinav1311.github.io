@@ -7,7 +7,7 @@
   </head>
   <body>
   <div ng-app >
-  Hi, this is portfolio for Angular JS learning .Please contribute it learning it faster.
+  Hi, this is portfolio for Angular JS learning .Please contribute it learning it faster.This changes is done by mitesh
   </div>
   </body>
 </html>
